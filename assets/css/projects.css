@@ -1,0 +1,28 @@
+/* Portfolio Section */
+#portfolio {
+	padding-top: 100px;
+	background: #f6f6f6;
+}
+
+
+
+
+/* ol.type li a.active {
+	background: #222;
+	border: 1px solid #222;
+	color: #fff;
+}
+ol.type li a:hover {
+	background: #222;
+	border: 1px solid #222;
+	color: #fff;
+} */
+
+.row{
+	padding-left: 300px;
+	flex-grow: 5;
+}
+
+.card-link {
+	font-size: 22px;
+}

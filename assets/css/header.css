@@ -1,0 +1,37 @@
+/* Header Section */
+.intro {
+	display: table;
+	width: 100%;
+	padding: 0;
+	text-align: center;
+	color: #333;
+	background: url(../assets/white-watercolor.jpg) no-repeat center top;
+	background-color: #e5e5e5;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	background-size: cover;
+	-o-background-size: cover;
+}
+.section-title.center {
+	padding: 10px 0 40px 0;
+}
+.intro h1 {
+	font-size: 60px;
+	font-weight: 600;
+	letter-spacing: 2px;
+	text-transform: uppercase;
+	margin-bottom: 20px;
+	color: #333;
+}
+.intro p {
+	font-size: 20px;
+	margin-bottom: 40px;
+	margin-top: 20px;
+}
+header .intro-text {
+	padding-top: 200px;
+	padding-bottom: 200px;
+}
+
+
+

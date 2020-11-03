@@ -1,0 +1,46 @@
+/* Contact Section */
+#contact {
+	font-size: 18px;
+	text-align: justify;
+}
+
+#formspree {
+	text-align: center;
+}
+
+form {
+	display: flex;
+	justify-content: space-between;
+	flex-wrap: wrap;
+	width: 500px;
+	margin: 0 auto;
+}
+
+form label {
+	flex: 1 1 200px;
+	text-align: left;
+}
+
+form input {
+	flex: 1 1 300px;
+}
+
+form textarea {
+	flex: 1 1 300px;
+}
+
+form button {
+	flex: 1 1 100px;
+	margin: 10px auto;
+}
+
+#social {
+	font-size: 26px;
+	text-align: center;
+	font-weight: 20;
+	text-transform: uppercase;
+}
+
+#contact (
+	
+)
